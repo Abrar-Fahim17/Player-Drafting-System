@@ -47,42 +47,23 @@ exiting admin/team menus.
 
 ### Admin Login & Menu
 
-*(From provided screenshot)*
+<img width="1478" height="751" alt="1" src="https://github.com/user-attachments/assets/c2635f53-7318-4b39-b82f-703827798149" />
 
-    Enter username: admin
-    Enter password: admin123
-
-    Admin Menu:
-    1. Create Team Account
-    2. Delete Team Account
-    3. List Team Accounts
-    4. Add Player to Database
-    5. Edit Player
-    6. Delete Player
-    7. View All Players
-    8. View Player Info
-    9. Save and Exit to Main Menu
 
 ### Team Account View
 
-    Teams:
-    FC Barcelona
+<img width="556" height="258" alt="4" src="https://github.com/user-attachments/assets/a6df6e16-339b-4a61-8e27-f47cbb926e42" />
+
 
 ### Team Menu
 
-    Team Menu for FC Barcelona:
-    1. View Team Roster
-    2. View Player Info
-    3. Draft Player and Assign Jersey Number
-    4. Remove Player from Roster
-    5. Rename Team
-    6. Save and Exit to Main Menu
+<img width="892" height="482" alt="5" src="https://github.com/user-attachments/assets/0febca24-b628-4394-bc5d-d5e284243381" />
+
 
 ### Example Roster Output
 
-    Roster:
-    Lamine Yamal (Jersey: 10)
-    Eric Garcia (Jersey: 23)
+<img width="892" height="92" alt="5 - Copy" src="https://github.com/user-attachments/assets/fb2b17ae-dd9f-45f6-b33f-95523e5decb8" />
+
 
 ------------------------------------------------------------------------
 
